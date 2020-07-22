@@ -19,6 +19,7 @@ public class DeptController
 {
 	@Autowired
 	private DeptService service;
+
 	@Autowired
 	private DiscoveryClient client;
 
